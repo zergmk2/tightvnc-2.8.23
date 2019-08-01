@@ -27,7 +27,7 @@
 
 #define XK_MISCELLANY
 #include "rfb/keysymdef.h"
-
+#include <string>
 RfbKeySym::RfbKeySym(RfbKeySymListener *extKeySymListener, LogWriter *log)
 : m_extKeySymListener(extKeySymListener),
   m_allowProcessCharEvent(false),

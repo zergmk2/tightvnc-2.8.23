@@ -1,0 +1,7 @@
+C:\Users\lucao\github\personal\tightvnc-2.8.23\tightvnc-2.8.23\\x64\Debug\wixobj\components.wixobj
+C:\Users\lucao\github\personal\tightvnc-2.8.23\tightvnc-2.8.23\\x64\Debug\wixobj\custom_actions.wixobj
+C:\Users\lucao\github\personal\tightvnc-2.8.23\tightvnc-2.8.23\\x64\Debug\wixobj\features.wixobj
+C:\Users\lucao\github\personal\tightvnc-2.8.23\tightvnc-2.8.23\\x64\Debug\wixobj\gui.wixobj
+C:\Users\lucao\github\personal\tightvnc-2.8.23\tightvnc-2.8.23\\x64\Debug\wixobj\gui_pages.wixobj
+C:\Users\lucao\github\personal\tightvnc-2.8.23\tightvnc-2.8.23\\x64\Debug\wixobj\Properties.wixobj
+C:\Users\lucao\github\personal\tightvnc-2.8.23\tightvnc-2.8.23\\x64\Debug\wixobj\setup.wixobj
